@@ -6,3 +6,7 @@
 - 💬 Ask me about machine learning, deep learning, database and computer science related query
 - 📫 How to reach me: linkedin - @sagar-shrestha-9a5646180
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagarshrestha12&include_all_commits=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarshrestha12&layout=compact">
