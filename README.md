@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently pursuing a **Master of Professional IT** at **Charles Sturt University**, Melbourne 🇦🇺
 - 🧠 I'm passionate about **Full-Stack Development**, **Cloud Computing**, and **Secure Enterprise Applications**
-- 👨‍💼 Previously: **Software Engineer @ Verisk Nepal (2022–2025)**
+- 👨‍💼 Previously: **Software Engineer @ Verisk Nepal (2022–2025)**, **Software Engineer Intern @Leapfrog Technology, Inc.(Dec 2021-Jan 2022)**
 - 🧪 Published researcher in **Blockchain-based Product Authentication**
 - 🏆 Winner of the **Verisk Way to Go! Award** (April 2024)
 
