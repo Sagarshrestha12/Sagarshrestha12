@@ -62,18 +62,16 @@ Built with Python and TensorFlow (MNIST dataset), it generates mark sheets in PD
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarshrestha&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=sagarshrestha&theme=radical" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarshrestha&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarshrestha12&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=sagarshrestha12&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarshrestha12&layout=compact&theme=radical" alt="Top languages" />
 </p>
-
 ---
 
 ### 📫 Let’s Connect
 
 - 📧 Email: [sagarshrestha4339@gmail.com](mailto:sagarshrestha4339@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/sagar-shrestha-9a5646180/](https://linkedin.com/in/sagar-shrestha-9a5646180)
-- 🌐 GitHub: [github.com/sagarshrestha12](https://github.com/sagarshrestha12)
 
 ---
 
